@@ -19,7 +19,7 @@ const toastOptions = {
   progressBar: false,
   close: true,
   timeout: 4000,
-  maxWidth: 432,
+  maxWidth: 432, 
 };
 
 form.addEventListener('submit', event => {
